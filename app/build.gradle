@@ -48,7 +48,7 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
     implementation(name:'ds-photo-editor-sdk-v10', ext:'aar')
-
+    implementation "com.airbnb.android:lottie:5.2.0"
 
 
     // SDK related dependencies
